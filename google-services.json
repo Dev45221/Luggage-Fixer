@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "550383429284",
+    "project_id": "dev4you-f4a3c",
+    "storage_bucket": "dev4you-f4a3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550383429284:android:8e98e8ca9ab9ac2051e831",
+        "android_client_info": {
+          "package_name": "com.example.dev4you"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550383429284-gkq7cjpre1385g6binkb36g96nj64m6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFTNCBTqGrE7GvIRQnfaJC08Zz-Bz5OAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550383429284-gkq7cjpre1385g6binkb36g96nj64m6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
